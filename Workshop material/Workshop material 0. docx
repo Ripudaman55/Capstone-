@@ -1,5 +1,21 @@
 🧠 Workshop Materials: AI for Industry Collaboration
 📘 1. Workshop Overview
+
+Have a look at these prompt: 
+Prompt 1: Project Introduction
+I'm preparing a grant application for a community health initiative focused on reducing diabetes in underserved urban neighborhoods through nutrition education and free screening programs. We're targeting the [Foundation Name] Community Health Grant for $75,000 over 18 months. Please help me develop a strong application.
+Content Quality Testing Prompts
+Prompt 2: Executive Summary
+Based on our community health initiative, please write a compelling 250-word executive summary that highlights the need, our approach, expected outcomes, and why our organization is qualified to implement this program.
+Prompt 3: Problem Statement
+Help me develop a data-driven problem statement about diabetes prevalence in urban communities, emphasizing health disparities and social determinants. Include 3-4 relevant statistics that make a compelling case for our intervention.
+Technical Writing Testing Prompts
+Prompt 4: Language Refinement
+Please review and improve this draft paragraph for clarity, conciseness, and grant-appropriate terminology: "Our program will do diabetes screenings and teach people about eating better in the community. We will work with local partners to reach more people and make sure the program continues even after the grant money is gone. We think we can help about 500 people in the first year."
+Prompt 5: Technical to Accessible Translation
+Transform this technical description into accessible language while maintaining acc
+
+
 Title:
 “Using AI Tools for Academic–Industry Collaboration: Grants, Research & Beyond”
 
