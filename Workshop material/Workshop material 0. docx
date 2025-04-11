@@ -1,20 +1,6 @@
 🧠 Workshop Materials: AI for Industry Collaboration
 📘 1. Workshop Overview
 
-Have a look at these prompt: 
-Prompt 1: Project Introduction
-I'm preparing a grant application for a community health initiative focused on reducing diabetes in underserved urban neighborhoods through nutrition education and free screening programs. We're targeting the [Foundation Name] Community Health Grant for $75,000 over 18 months. Please help me develop a strong application.
-Content Quality Testing Prompts
-Prompt 2: Executive Summary
-Based on our community health initiative, please write a compelling 250-word executive summary that highlights the need, our approach, expected outcomes, and why our organization is qualified to implement this program.
-Prompt 3: Problem Statement
-Help me develop a data-driven problem statement about diabetes prevalence in urban communities, emphasizing health disparities and social determinants. Include 3-4 relevant statistics that make a compelling case for our intervention.
-Technical Writing Testing Prompts
-Prompt 4: Language Refinement
-Please review and improve this draft paragraph for clarity, conciseness, and grant-appropriate terminology: "Our program will do diabetes screenings and teach people about eating better in the community. We will work with local partners to reach more people and make sure the program continues even after the grant money is gone. We think we can help about 500 people in the first year."
-Prompt 5: Technical to Accessible Translation
-Transform this technical description into accessible language while maintaining acc
-
 
 Title:
 “Using AI Tools for Academic–Industry Collaboration: Grants, Research & Beyond”
@@ -100,6 +86,48 @@ Smart Cities	Map potential partners for urban AI project	ChatGPT + Dimensions.ai
 Supplement:
 Provide use case brief templates, and include industry background scenarios for role-play.
 
+
+
+Grant making in a process: 
+Have a look at these prompt: 
+Prompt 1: Project Introduction
+I'm preparing a grant application for a community health initiative focused on reducing diabetes in underserved urban neighborhoods through nutrition education and free screening programs. We're targeting the [Foundation Name] Community Health Grant for $75,000 over 18 months. Please help me develop a strong application.
+Content Quality Testing Prompts
+Prompt 2: Executive Summary
+Based on our community health initiative, please write a compelling 250-word executive summary that highlights the need, our approach, expected outcomes, and why our organization is qualified to implement this program.
+Prompt 3: Problem Statement
+Help me develop a data-driven problem statement about diabetes prevalence in urban communities, emphasizing health disparities and social determinants. Include 3-4 relevant statistics that make a compelling case for our intervention.
+Technical Writing Testing Prompts
+Prompt 4: Language Refinement
+Please review and improve this draft paragraph for clarity, conciseness, and grant-appropriate terminology: "Our program will do diabetes screenings and teach people about eating better in the community. We will work with local partners to reach more people and make sure the program continues even after the grant money is gone. We think we can help about 500 people in the first year."
+Prompt 5: Technical to Accessible Translation
+Transform this technical description into accessible language while maintaining acc
+
+Structure Testing Prompts
+Prompt 6: Outline Development
+Create a detailed outline for our complete grant proposal following standard foundation grant structure. Include all major sections with brief descriptions of what should be included in each.
+Prompt 7: Timeline Creation
+Develop a 18-month timeline for our diabetes prevention program that shows key implementation phases, milestones, and evaluation points in a logical sequence.
+Customization Testing Prompts
+Prompt 8: Funder Alignment
+The [Foundation Name] priorities include "sustainable community solutions," "health equity," and "innovative approaches." Revise our project description to specifically highlight how our diabetes prevention program aligns with these three priority areas.
+Prompt 9: Community Context
+Our target community is a predominantly Hispanic and African American neighborhood with high poverty rates (32%), limited healthcare access (40% uninsured), and food desert conditions. Enhance our needs assessment with specific language addressing these contextual factors.
+Strategic Value Testing Prompts
+Prompt 10: Outcomes and Impact Framework
+Develop SMART objectives and corresponding outcome measures for our diabetes prevention program, including short-term, intermediate, and long-term impacts. Include both quantitative and qualitative measurement approaches.
+Prompt 11: Sustainability Planning
+Create a comprehensive sustainability paragraph explaining how our diabetes prevention program will continue after grant funding ends. Include potential funding sources, community partnerships, and resource leveraging strategies.
+Iterative Improvement Testing Prompts
+Prompt 12: Feedback Integration
+A preliminary reviewer noted our proposal "lacks specific information about community involvement in program design and implementation." Please revise our methodology section to address this feedback, emphasizing community engagement throughout the project lifecycle.
+Prompt 13: Budget Narrative Refinement
+Review this budget narrative and strengthen the justification for our staffing costs, which the review committee flagged as potentially high: "The project requires a full-time Program Coordinator ($52,000) and part-time Health Educator ($25,000) to implement all activities. Administrative support will be provided in-kind by our organization."
+Final Assessment Prompt
+Prompt 14: Comprehensive Review
+Please review our complete grant proposal (I'll paste sections below) and identify the three strongest elements and three areas that most need improvement before submission. [Paste consolidated proposal sections from previous responses]
+ 
+
 📄 4. Pre- and Post-Workshop Assessments
 ✅ Pre-Workshop (Before)
 How confident are you in using AI for collaboration tasks?
@@ -116,6 +144,7 @@ Can you now draft a grant summary or research abstract with AI?
 What was your biggest takeaway from the hands-on prompts?
 
 Format: Google Form / Typeform / Paper Handout
+
 
 📂 5. Resource Pack
 Item	Format	Description
