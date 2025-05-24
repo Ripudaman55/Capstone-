@@ -37,22 +37,7 @@ The project aims to reduce friction between academic and industry stakeholders b
 
  🗂️ Project Structure
 
- Capstone-/
-│
-├── client/ # React frontend
-│ ├── src/
-│ └── public/
-│
-├── server/ # Node.js backend
-│ └── api/
-│
-├── prompts/ # Prompt library (ICE, RCR, CoT)
-│ └── json-format/
-│
-├── training-materials/ # Workshop PDFs, Forms, Canva assets
-├── evaluations/ # Tool analysis reports
-├── README.md
-└── package.json
+![image](https://github.com/user-attachments/assets/ce88199c-9c63-4529-8391-2c48e39f525a)
 
 
 👨‍💻 Team
