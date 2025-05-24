@@ -41,9 +41,9 @@ The project aims to reduce friction between academic and industry stakeholders b
 
 
 👨‍💻 Team
-Name	Role
-Ripudaman Thind	Team Lead, Dev, Prompt Engineering
-Hardik Mittal	UI/UX Design, Research, Testing
+
+Ripudaman Thind: 	Team Lead, Dev, Prompt Engineering
+Hardik Mittal: 	UI/UX Design, Research, Testing
 
 
 📜 License
